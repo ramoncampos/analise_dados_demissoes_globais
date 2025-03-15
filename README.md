@@ -3,6 +3,7 @@
 ## Descrição
 
 Este projeto envolveu a realização de limpeza de dados e análise exploratória em um conjunto de dados abrangente sobre Demissões Globais, utilizando MySQL. O objetivo principal foi transformar dados brutos em um formato estruturado e informativo, por meio de consultas SQL avançadas para obter insights importantes.
+[Fonte de dados](https://www.kaggle.com/datasets/happyude/world-layoffs)
 
 ## Processo de Limpeza de Dados
 
