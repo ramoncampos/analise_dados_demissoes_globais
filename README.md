@@ -93,6 +93,13 @@ Este projeto envolveu a realização de limpeza de dados e análise exploratóri
 
 Os dados limpos são armazenados na tabela `layoffs_staging2`, que agora contém registros padronizados e sem duplicatas, com os valores ausentes tratados de forma adequada.
 
+## Insights sobre os Dados
+Alguns insights gráficos podem ser vistos no arquivo `visualizacao insights.ipynb`. São eles:
+1. Evolução das demissões ao longo do tempo
+2. Setores mais afetados
+3. Demissões por localização (Países mais afetados)
+4. Distribuição percentual de demissões nas empresas
+
 ## Como Executar o Projeto
 
 1. **Clonar o repositório:**
