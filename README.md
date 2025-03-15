@@ -109,11 +109,4 @@ Os dados limpos são armazenados na tabela `layoffs_staging2`, que agora contém
 
 ## Conclusão
 
-By thoroughly cleaning and standardizing the World Layoffs dataset, this project demonstrates the effectiveness of SQL in preparing data for meaningful analysis. The resulting insights can provide valuable information on global layoff trends and patterns.
-
-## Contato
-
-Para qual dúvida ou informação, fale comigo:
-
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ramoncampos/)
-
+Ao limpar e padronizar completamente o conjunto de dados World Layoffs, este projeto demonstra a eficácia do SQL na preparação de dados para uma análise significativa. Os insights resultantes podem fornecer informações valiosas sobre tendências e padrões de demissões em nível global.
